@@ -1,9 +1,10 @@
 {
   "min_stars": 50000,
-  "last_run_at": "2026-08-24T07:33:58+09:00",
+  "last_run_at": "2026-08-26T07:40:38+09:00",
   "analyzed": [
     "521xueweihan/HelloGitHub",
     "996icu/996.ICU",
+    "AUTOMATIC1111/stable-diffusion-webui",
     "CyC2018/CS-Notes",
     "DigitalPlatDev/FreeDomain",
     "EbookFoundation/free-programming-books",
@@ -54,5 +55,5 @@
     "yt-dlp/yt-dlp"
   ],
   "exhausted": false,
-  "last_candidate_refresh": "2026-08-24T07:33:59+09:00"
+  "last_candidate_refresh": "2026-08-26T07:40:40+09:00"
 }
