@@ -1,6 +1,6 @@
 {
   "min_stars": 50000,
-  "last_run_at": "2026-08-26T07:40:38+09:00",
+  "last_run_at": "2026-08-28T15:04:53+09:00",
   "analyzed": [
     "521xueweihan/HelloGitHub",
     "996icu/996.ICU",
@@ -26,6 +26,7 @@
     "freeCodeCamp/freeCodeCamp",
     "getify/You-Dont-Know-JS",
     "github/gitignore",
+    "huggingface/transformers",
     "jackfrued/Python-100-Days",
     "jwasham/coding-interview-university",
     "massgravel/Microsoft-Activation-Scripts",
@@ -55,5 +56,5 @@
     "yt-dlp/yt-dlp"
   ],
   "exhausted": false,
-  "last_candidate_refresh": "2026-08-26T07:40:40+09:00"
+  "last_candidate_refresh": "2026-08-28T15:04:55+09:00"
 }
