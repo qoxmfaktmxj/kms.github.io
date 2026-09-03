@@ -1,6 +1,6 @@
 {
   "min_stars": 50000,
-  "last_run_at": "2026-08-31T09:30:15+09:00",
+  "last_run_at": "2026-09-03T09:09:31+09:00",
   "analyzed": [
     "521xueweihan/HelloGitHub",
     "996icu/996.ICU",
@@ -10,6 +10,7 @@
     "EbookFoundation/free-programming-books",
     "NousResearch/hermes-agent",
     "Significant-Gravitas/AutoGPT",
+    "Snailclimb/JavaGuide",
     "TheAlgorithms/Python",
     "affaan-m/ECC",
     "anomalyco/opencode",
@@ -57,5 +58,5 @@
     "yt-dlp/yt-dlp"
   ],
   "exhausted": false,
-  "last_candidate_refresh": "2026-08-31T09:30:16+09:00"
+  "last_candidate_refresh": "2026-09-03T09:09:33+09:00"
 }
